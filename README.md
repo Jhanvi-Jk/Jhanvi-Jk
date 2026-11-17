@@ -5,7 +5,7 @@
 
 ### software, ideas & little experiments ✿
 
-*student developer · economics enthusiast · lifelong learner*
+*student developer · economics enthusiast ·*
 
 <br/>
 
@@ -18,14 +18,13 @@
 
 ### ୨୧ about me
 
-hi! i'm jhanvi.
+Hi! I'm Jhanvi.
 
-I'm interested in the intersection of technology, economics and problem-solving. I love taking ideas from random notes and turning them into actual projects.
+I'm interested in the intersection of technology, economics and problem-solving. I love taking problems I face and making things to solve them. 
 
 - 🎀 building things with code
 - ♡ exploring economics and technology
-- ✿ learning something new every day
-- ☁️ always collecting ideas for my next project
+
 
 ### ✧ what i'm working on
 
