@@ -1,66 +1,61 @@
 
 <div align="center">
 
-# hello, i'm jhanvi! ♡
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8A7B8,50:C5B4D9,100:A995C4&height=130&section=header&text=hello,%20i'm%20jhanvi%20♡&fontSize=38&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-*building things, learning things, figuring things out.*
+### software, ideas & little experiments ✿
 
-✿ student developer · economics enthusiast · curious human
+*student developer · economics enthusiast · lifelong learner*
 
 <br/>
 
-[![SchoolFind360](https://img.shields.io/badge/🌷_currently_building-SchoolFind360-e8b4c8?style=flat-square)](https://www.schoolfind360.com/schools)
+[![Website](https://img.shields.io/badge/schoolfind360-D8A7B8?style=flat-square&logo=googlechrome&logoColor=white)](https://www.schoolfind360.com/schools)
+[![GitHub](https://img.shields.io/badge/github-C5B4D9?style=flat-square&logo=github&logoColor=white)](https://github.com/Jhanvi-Jk)
 
 </div>
 
 ---
 
-### ୨୧ a little about me
+### ୨୧ about me
 
-I'm a student interested in technology, economics, and the ways they intersect.
+hi! i'm jhanvi.
 
-I enjoy taking ideas and turning them into something real — whether that's a website, a coding project, or a little experiment.
+I'm interested in the intersection of technology, economics and problem-solving. I love taking ideas from random notes and turning them into actual projects.
 
-- ♡ Currently building **SchoolFind360**
-- ✿ Exploring computer science and software development
-- ☁️ Interested in economics, data and technology
-- 🎀 Always learning something new
+- 🎀 building things with code
+- ♡ exploring economics and technology
+- ✿ learning something new every day
+- ☁️ always collecting ideas for my next project
 
-### ✧ things i've made
+### ✧ what i'm working on
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-**01 · SchoolFind360**
+#### 🌷 SchoolFind360
 
-A school discovery and comparison platform designed to make finding schools easier.
+A school discovery and comparison platform that makes finding the right school easier.
 
-[explore ↗](https://www.schoolfind360.com/schools)
-
-</td>
-<td width="50%">
-
-**02 · little experiments**
-
-A collection of things I'm learning, building and experimenting with.
-
-*more projects coming soon ♡*
+[visit project ↗](https://www.schoolfind360.com/schools)
 
 </td>
 </tr>
 </table>
 
-### ♡ currently exploring
+### ⋆｡°✩ currently exploring
 
-`Python` `JavaScript` `Next.js` `Economics` `Data`
+![Python](https://img.shields.io/badge/Python-D8A7B8?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C5B4D9?style=flat-square&logo=javascript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-A995C4?style=flat-square&logo=nextdotjs&logoColor=white)
+![Economics](https://img.shields.io/badge/Economics-D8A7B8?style=flat-square)
 
 ---
 
 <div align="center">
 
-*made with curiosity, caffeine and a questionable number of open tabs.*
+*thanks for stopping by ♡*
 
-♡ thanks for stopping by ♡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8A7B8,100:C5B4D9&height=90&section=footer" width="100%"/>
 
 </div>
